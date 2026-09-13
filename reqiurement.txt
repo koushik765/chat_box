@@ -1,0 +1,5 @@
+langchain==0.3.27
+langchain_core==0.3.79
+langchain_community==0.3.27
+langchain-groq==0.3.6
+langchain-text-splitters==0.3.11
